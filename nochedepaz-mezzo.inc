@@ -16,28 +16,28 @@
 
 		R1*4  |
 %% 5
-		r4 cis' 8 d' 4. cis' 4  |
+		r4 cis' 8 ( d' 4. ) cis' 4  |
 		e 1  |
-		r4 cis' 8 d' 4. cis' 4  |
+		r4 cis' 8 ( d' 4. ) cis' 4  |
 		e' 1  |
-		r4 cis' 8 d' 4. cis' 4  |
+		r4 cis' 8 ( d' 4. ) cis' 4  |
 %% 10
 		e 1  |
-		r4 cis' 8 d' 4. cis' 4  |
+		r4 cis' 8 ( d' 4. ) cis' 4  |
 		e' 1  |
 		R1  |
-		cis' 4. b a 4  |
+		cis' 4. ( b ) a 4  |
 %% 15
 		cis' 1  |
-		cis' 4. b a 4  |
+		cis' 4. ( b ) a 4  |
 		e' 1 ~  |
 		e' 2. r4  |
 		R1  |
 %% 20
-		cis' 4. b a 4 ~  |
+		cis' 4. ( b ) a 4 ~  |
 		a 1  |
 		R1*2  |
-		cis' 4. b a 4  |
+		cis' 4. ( b ) a 4  |
 %% 25
 		d' 1  |
 		R1*2  |
@@ -53,9 +53,9 @@
 		cis' 1  |
 		R1*4  |
 %% 40
-		cis' 4. b a 4  |
+		cis' 4. ( b ) a 4  |
 		cis' 1  |
-		cis' 4. b a 4  |
+		cis' 4. ( b ) a 4  |
 		e' 1 ~  |
 		e' 2. r4  |
 %% 45
@@ -74,27 +74,27 @@
 		dis' 2. ) r4  |
 		cis' 2 ~ cis' 8 cis' cis' 4  |
 %% 60
-		b 2 ~ b 8 cis' b 4  |
+		b 2 ~ b 8 ( cis' ) b 4  |
 		cis' 1  |
 		R1*3  |
 %% 65
-		e' 2 ~ e' 8 fis' e' 4  |
+		e' 2 ~ e' 8 ( fis' ) e' 4  |
 		cis' 1  |
-		e' 2 ~ e' 8 fis' e' 4  |
+		e' 2 ~ e' 8 ( fis' ) e' 4  |
 		cis' 1  |
 		b' 2. b' 4  |
 %% 70
 		gis' 2. gis' 4  |
-		a' 2. a' 4  |
+		a' 2 ~ a' 8 a' 8 a' 4  |
 		e' 2. ~ e' 8 r  |
 		fis' 2 ~ fis' 8 fis' fis' 4  |
 		a' 2 ~ a' 8 gis' fis' 4  |
 %% 75
-		e' 2 ~ e' 8 fis' e' 4  |
+		e' 2 ~ e' 8 ( fis' ) e' 4  |
 		cis' 1  |
 		fis' 2 ~ fis' 8 fis' fis' 4  |
 		a' 2 ~ a' 8 gis' fis' 4  |
-		e' 2 ~ e' 8 fis' e' 4  |
+		e' 2 ~ e' 8 ( fis' e' 4 )  |
 %% 80
 		cis' 1  |
 		b' 2 ~ b' 8 b' b' 4  |
@@ -110,31 +110,31 @@
 	}
 
 	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
-		No -- che de paz,
-		no -- che "de a" -- mor,
-		no -- che de paz.
-		no -- che "de a" -- mor,
+		Nic'ht si -- lént,
+		nic'ht per -- sant,
+		nic'ht si -- lént,
+		nic'ht per -- sant.
 
-		No -- che de paz,
-		no -- che "de a" -- mor, __
-		"...de" -- rre -- dor...
-		"...par" -- cen su luz...
-		Je -- sús... __
-		bri -- lla "la es" -- tre -- lla "de a" -- mor.
+		Nic'ht si -- lént,
+		nic'ht per -- sant, __
+		"...bri" -- txind...
+		"...es" __ fi -- glheu...
+		"...ten" -- dreu... __
+		dor -- metz cüm -- bién ce -- les -- tial.
 
-		No -- che de paz,
-		no -- che "de a" -- mor, __
-		"...de" -- rre -- dor...
-		"...la os" -- cu ri dad...
+		Nic'ht si -- lént,
+		nic'ht per -- sant, __
+		"...àl" visch -- ta...
+		"...vient" glo -- ri -- a...
 		Ah... __
-		bri -- lla "la es" -- tre -- lla "de a" -- mor.
+		C'hrí -- ost Sal -- viour __ nas -- cat.
 
-		No -- che de paz,
-		no -- che "de a" -- mor,
-		to -- do duer -- "me en" -- de -- rre -- dor.
-		Mien -- tras los as -- tros es -- par -- cen su luz,
-		vie -- "ne a" -- nun -- cian -- "do al" ni -- ñi -- to Je -- sús.
-		Glo -- ria al rey ce -- les -- tial, __
-		glo -- ria al rey ce -- les -- tial.
+		Nic'ht si -- lent,
+		nic'ht schve -- teu,
+		figlh' da Dí -- eu, a -- gap sè féu.
+		Rais ra -- di -- inds da Tu fa __ ça sant
+		L'al -- vo -- ra -- da da mer -- þé __ des
+		Ie -- su, Dom -- nul da tza -- ra, __
+		Ie -- su, Dom -- nul da tza -- ra.
 	}
 >>

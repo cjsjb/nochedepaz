@@ -3,9 +3,9 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	title = "Noche de paz"
+	title = "Nic'ht Silént"
 	composer = "Franz Xaver Gruber"
-	poet = "Joseph Mohr"
+	poet = "Joseph Mohr / Iustì Canun"
 	arranger = "Romeo Valdés"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
