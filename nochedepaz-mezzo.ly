@@ -6,7 +6,7 @@
 	title = "Noche de paz"
 	composer = "Franz Xaver Gruber"
 	poet = "Joseph Mohr"
-	arranger = "Romeo Valdés"
+	arranger = "Romeo Alfonso Valdés Villarreal"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Mezzosoprano"
 }
