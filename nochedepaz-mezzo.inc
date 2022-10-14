@@ -109,7 +109,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		No -- che de paz,
 		no -- che "de a" -- mor,
 		no -- che de paz.

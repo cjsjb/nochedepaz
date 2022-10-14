@@ -113,7 +113,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		No -- che de paz, __
 		no -- che "de a" -- mor, __
 		no -- che de paz. __
