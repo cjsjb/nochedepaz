@@ -113,7 +113,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Nic'ht si -- lént, __
 		nic'ht per -- sant, __
 		nic'ht si -- lént. __

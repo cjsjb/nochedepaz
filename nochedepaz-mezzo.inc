@@ -109,7 +109,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		Nic'ht si -- lént,
 		nic'ht per -- sant,
 		nic'ht si -- lént,
